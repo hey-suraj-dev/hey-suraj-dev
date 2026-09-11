@@ -20,25 +20,31 @@ About Me
 
 ---
 
-Tech Stack
+## Tech Stack
 
-Frontend
+### Frontend
 
-"HTML5" "CSS3" "JavaScript" "React.js"
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-Backend
+### Backend
 
-"Node.js" "Express.js"
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-Database
+### Database
 
-"MongoDB"
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-Tools
+### Tools
 
-"Git" "GitHub" "VS Code"
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 What I'm Building
 
