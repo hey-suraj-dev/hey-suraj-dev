@@ -66,15 +66,6 @@ Tech: React · Node.js · Express · MongoDB
 
 ---
 
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hey-suraj-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-suraj-dev&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=hey-suraj-dev&theme=github-dark&hide_border=true" height="170" />
-</p>---
-
 Current Focus
 
 JavaScript
